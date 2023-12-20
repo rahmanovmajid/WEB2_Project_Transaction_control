@@ -1,0 +1,6 @@
+graph.php:	jpgraph ve designi
+
+welcome.html:	not responsive
+about.html:		responsive approved
+index.php:		not responsive
+table.php:		not responsive table of transactions 
